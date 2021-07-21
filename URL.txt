@@ -1,5 +1,6 @@
 
 https://a-dev-mobile.github.io/materials-db/materials.json
 https://a-dev-mobile.github.io/materials-db/category.json
+https://a-dev-mobile.github.io/materials-db/version.json
 https://a-dev-mobile.github.io/materials-db/type.json
 
